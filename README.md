@@ -5,4 +5,6 @@ By keeping track of what position each letter of the alphabet is in you can subs
 The keys are the scrambled arrays and the index position of each letter in that scrambled array will allow the program to decypher it. 
 I Made this visual diagram to help understand the idea.
 
-<img width="577" height="703" alt="image" src="https://github.com/user-attachments/assets/cb64a7f6-53b8-4d82-8fad-7ca93fe1eca0" />
+<img width="645" height="753" alt="image" src="https://github.com/user-attachments/assets/31cf1d18-4ea4-44ed-9559-05a82c87336b" />
+
+
